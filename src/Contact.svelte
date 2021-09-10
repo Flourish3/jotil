@@ -43,7 +43,7 @@
     }
 
     .grid-header{
-        margin-top: 0;
+        margin-top: 1;
         grid-column-start: 1;
         grid-column-end: 4;
     }
