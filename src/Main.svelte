@@ -4,12 +4,12 @@
     let contactList: ContactInfo[] = [
         {
             link: "mailto:johan.tillmar@protonmail.com",
-            name: "johan.tillmar@protonmail.com",
+            name: "Mail",
             iconLink: "email.svg"
         },
         {
             link: "https://se.linkedin.com/in/johan-tillmar-b7122799",
-            name: "Johan Tillmar",
+            name: "LinkedIn",
             iconLink: "linkedin.svg"
         }
     ];
@@ -27,11 +27,8 @@
         grid-template-rows: 1fr 1fr auto;
 		text-align: center;
 		padding: 0.5em;
-		max-width: 240px;
-		margin: 0 auto;
-        width: 70%;
         background-color: rgb(205, 225, 226);
-        height: 96%;
+        height: 98vh;
         border-radius: 15px;
 	}
 

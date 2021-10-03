@@ -42,6 +42,12 @@
         align-items: center;
     }
 
+    @media screen and (min-width: 1024px) {
+        #contact-container {
+            width: 30%;
+        }
+    }
+    
     .grid-header{
         margin-top: 1;
         grid-column-start: 1;
